@@ -98,9 +98,9 @@ body {
   margin: auto;
   flex-direction: column;
   border: 1px solid #888;
-    align-items: center;
+  align-items: center;
   width: 25%;
-  height: auto;;
+  height: 40%;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
   -webkit-animation-name: animatetop;
   -webkit-animation-duration: 0.4s;
@@ -292,15 +292,15 @@ margin: 10px;
 }
 #yesBtn{
     background-color:red;
-   border: none;
+    border: none;
     font-size: 80%;
     width: 40%;
-color: white;
+    color: white;
     cursor: pointer;
 }
 #noBtn{
     background-color: forestgreen;
-width: 40%;
+    width: 40%;
     border: none;
     color: white;
     cursor: pointer;
