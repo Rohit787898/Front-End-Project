@@ -146,3 +146,28 @@ body{
         cursor: pointer;
 
 }
+#create-btn{
+    width: 25%;
+    background-color: green;
+    float: right;
+}
+#close-btn{
+    width: 25%;
+    background-color: red;
+    float: right;
+}
+#inputTitle{
+    opacity: 0.6;
+}
+#details{
+    width: 97%;
+}
+#myModelpost{
+    position: absolute;
+    left: 25%;
+    top: 25%;
+}
+#postmodal{
+    display: flex;
+    flex-direction: row-reverse;
+}
